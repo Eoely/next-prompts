@@ -1,0 +1,5 @@
+{
+  "name": "next-prompts",
+  "owner": { "name": "Eoely" },
+  "plugins": [{ "name": "next-prompts", "source": "./" }]
+}
